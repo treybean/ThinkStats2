@@ -65,3 +65,10 @@ docs/_build/
 
 # Jupyter Files
 .ipynb_checkpoints/
+.jupyter
+
+# ipython temp files
+.ipython/
+
+# .local
+.local/
